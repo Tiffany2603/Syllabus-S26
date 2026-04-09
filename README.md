@@ -86,8 +86,8 @@ This studio course introduces students to the culture and practice of open sourc
 
 ### Reading
 
+- [Aligning an Open Source Ethos](https://www.opensourceethos.net/) by Roopa Vasudevan
 - [A new Code of Conduct and License for ml5.js](https://ml5js.org/blog/archive-coc-launch/)
-- [#ethicalCS: bring ethics, identity, and impact to Computer Science education](https://medium.com/@ed_saber/ethicalcs-bring-ethics-identity-and-impact-to-computer-science-education-eae5a9d4682) by Saber Khan
 - [Open Source Guide: Building Community](https://opensource.guide/building-community/)
 
 ### Assignment
