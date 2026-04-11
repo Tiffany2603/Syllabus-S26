@@ -1,6 +1,6 @@
 # Final Project
 
-The goal of the final project is to make an open source contribution. This can be something quite small.
+The goal of the final project is to make an open source contribution. This can be something quite small, even just a single page of documentation, one new code example, a single dataset.
 
 ## Options
 
@@ -29,7 +29,7 @@ If you are creating your own project, at a minimum your repository should includ
 
 ## Stages
 
-### Proposal Presentations, 4/20
+### 1: Proposal Presentations, 4/20
 
 Come to class ready to present your proposal. Before class:
 
@@ -40,13 +40,13 @@ Pull request a link to your proposal below:
 
 - Name: [Title](url)
 
-### Week 6: Development Studio, 4/27
+### 2: Development Studio, 4/27
 
 Work session. Come with progress to share and questions to discuss.
 
-### Week 7: Presentations, 5/4
+### 3: Presentations, 5/4
 
-Present your contribution to the class. In addition to the presentation, submit a written reflection:
+Present your contribution to the class. Document your process. This could be a blog post, a README, a video, or any other format that captures what you did and what you learned. Consider addressing:
 
 - Describe your open source contribution.
 - How did your idea change from your initial proposal?
@@ -54,3 +54,7 @@ Present your contribution to the class. In addition to the presentation, submit 
 - How did you get feedback on your contribution?
 - Do you plan to continue working on this?
 - How do you feel about contributing to open source in the future?
+
+Pull request a link to your documentation below:
+
+- Name: [Title](url)
