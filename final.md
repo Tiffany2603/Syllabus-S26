@@ -39,6 +39,7 @@ Come to class ready to present your proposal. Before class:
 Pull request a link to your proposal below:
 
 - Name: [Title](url)
+- Ziyi Yuan: [Touchdesigner Kinect gesture&Python Print](https://github.com/Tiffany2603/TD-gesture-print)
 
 ### 2: Development Studio, 4/27
 
